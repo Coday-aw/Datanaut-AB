@@ -1,3 +1,9 @@
+- **Rapportör och datum:** Björn - 20251118
+- **Deltagare (närvaro):** Johan, Björn, Sepideh, Coday
+- **Sprintmål (veckans DoD):**  
+- **Vad vi gjorde:** 
+- **Problem/hinder:** 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 - **Rapportör och datum:** Johan 2025-11-11
 - **Deltagare (närvaro):** Johan, Björn, Sepideh, Coday
 - **Sprintmål (veckans DoD):** First draft of ER-diagram, list of requirements and the beginning of a backlog with user stories 
