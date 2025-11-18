@@ -1,0 +1,14 @@
+- **Rapportör och datum:** Björn - 20251118
+- **Deltagare (närvaro):** Johan, Björn, Sepideh, Coday
+- **Sprintmål (veckans DoD):**  - 
+- - Skapa fullständigt ER-diagram
+- - Normalisera till 3NF
+- - Skriv backlog med user stories och bryt ner i tasks
+- **Vad vi gjorde:** 
+- **Problem/hinder:** 
+----------------------------------------------------------------------------------------------------------------------------------
+- **Rapportör och datum:** Johan 2025-11-11
+- **Deltagare (närvaro):** Johan, Björn, Sepideh, Coday
+- **Sprintmål (veckans DoD):** First draft of ER-diagram, list of requirements and the beginning of a backlog with user stories 
+- **Vad vi gjorde:** We started with assigning roles to the different people in our group and and made a github, after that we made a ER-diagram together
+- **Problem/hinder:** The tasks we got were a bit broad and the DoD was not entirely easy to understand so we were unsure if we were done or not.
