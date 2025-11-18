@@ -4,8 +4,8 @@
   - Create a full ER Diagram
   - Normalize to 3NF
   - Write backlog with user stories and break down into tasks
-- **What we did:** 
-- **Problems/Hurdles:** 
+- **What we did:** We kept on working on the ER Diagram - we are still having issues forming a working picture in our heads. We feel we understand the needs of the database, we just struggle putting in into documentation
+- **Problems/Hurdles:** Still struggling with understanding cardinalities in ER Diagrams
 ----------------------------------------------------------------------------------------------------------------------------------
 - **Rapportör och datum:** Johan 2025-11-11
 - **Deltagare (närvaro):** Johan, Björn, Sepideh, Coday
@@ -13,5 +13,6 @@
 - **Vad vi gjorde:** We started with assigning roles to the different people in our group and and made a github, after that we made a ER-diagram together
 
 - **Problem/hinder:** The tasks we got were a bit broad and the DoD was not entirely easy to understand so we were unsure if we were done or not.
+
 
 
