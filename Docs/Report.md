@@ -14,6 +14,17 @@
 
 - **Problem/hinder:** The tasks we got were a bit broad and the DoD was not entirely easy to understand so we were unsure if we were done or not.
 
+-----------------------------------------------------------------------------------------------------------------------------------
+- **Rapportör och datum:** Coday 2025-11-25
+- **Deltagare (närvaro):** Johan, Sepideh, Coday
+- **Sprintmål (veckans DoD):**
+    - Create database in SSMS
+    - Create tables and relationtions 
+- **Vad vi gjorde:** We started with assigning roles, after we started with database creating and creating tables and relationtions between the tables. 
+
+- **Problem/hinder:** No problems today everything when smooth.
+
+
 
 
 
